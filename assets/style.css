@@ -1,0 +1,26 @@
+/**
+ * @Author: Your name
+ * @Date:   2022-03-26 12:22:06
+ * @Last Modified by:   Your name
+ * @Last Modified time: 2022-03-28 20:53:05
+ */
+ .navbar-brand{
+    border-bottom: 1px solid rgb(41, 41, 41);
+    box-shadow: 0px 5px 5px 0.5px rgb(48, 47, 47);
+    width: 10vw;
+    height: 40px;
+    align-items: center;
+    background-color:white;
+    color: rgb(255, 255, 255);
+    margin-top:10px;
+}
+.sections{
+    margin-top:5px;
+    margin-bottom:30PX;
+}
+.footer{
+    margin-top: 40px;
+    margin-bottom: 5px;
+    background-color: black;
+    color: white;
+}
