@@ -2,7 +2,7 @@
  * @Author: Your name
  * @Date:   2022-03-26 12:22:06
  * @Last Modified by:   Your name
- * @Last Modified time: 2022-03-28 20:53:05
+ * @Last Modified time: 2022-06-16 21:35:06
  */
  .navbar-brand{
     border-bottom: 1px solid rgb(41, 41, 41);
@@ -13,6 +13,10 @@
     background-color:white;
     color: rgb(255, 255, 255);
     margin-top:10px;
+}
+.links{
+    color: rgb(187, 187, 187);
+    font-weight: 450;
 }
 .sections{
     margin-top:5px;
